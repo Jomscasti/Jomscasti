@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/Jomscasti/Jomscasti.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=Jomscasti.github.io&theme=aura" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=Jomscasti.github.io&theme=aura&v=2" />
   </a>
   <a href="https://github.com/Jomscasti/jomar.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=jomar.github.io&theme=aura" />
