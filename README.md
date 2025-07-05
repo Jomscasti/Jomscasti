@@ -35,14 +35,24 @@
 <!-- My Repositories -->
 ### 📁 My Repositories
 
-<p align="center">
-  <a href="https://github.com/Jomscasti/Jomscasti.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=Jomscasti.github.io&theme=aura&v=2" />
-  </a>
-  <a href="https://github.com/Jomscasti/jomar.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=jomar.github.io&theme=aura" />
-  </a>
-  <a href="https://github.com/Jomscasti/WD-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=WD-BE&theme=aura" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Jomscasti/Jomscasti.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=Jomscasti.github.io&theme=aura&v=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jomscasti/jomar.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=jomar.github.io&theme=aura&v=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Jomscasti/WD-BE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jomscasti&repo=WD-BE&theme=aura&v=2" />
+      </a>
+    </td>
+  </tr>
+</table>
