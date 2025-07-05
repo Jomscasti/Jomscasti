@@ -7,10 +7,16 @@
 ---
 
 ### 🔧 My GitHub Stats & Languages
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jomscasti&show_icons=true&theme=aura" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomscasti&layout=compact&theme=aura" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jomscasti&show_icons=true&theme=aura" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomscasti&layout=compact&theme=aura" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ### 💻 Languages & Tools
 <p align="center">
