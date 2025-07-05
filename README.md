@@ -6,9 +6,10 @@
 
 ---
 
-### 🔧 My GitHub Stats
+### 🔧 My GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jomscasti&show_icons=true&theme=github_dark_dimmed" alt="Jomscasti's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jomscasti&show_icons=true&theme=aura" alt="Jomscasti's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomscasti&layout=compact&theme=aura" alt="Top Languages" />
 </p>
 
 ### 💻 Languages & Tools
@@ -26,7 +27,7 @@
 </p>
 
 <!-- My Repositories -->
-# 📁 MY REPOSITORIES
+### 📁 My Repositories
 
 <p align="center">
   <a href="https://github.com/Jomscasti/Jomscasti.github.io">
