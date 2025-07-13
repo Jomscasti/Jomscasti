@@ -4,6 +4,9 @@
   Member of Google Developer Student Clubs | MYA Fellow 🚀
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jomscasti&style=flat-square&color=8A2BE2" alt="Profile Views" />
+</p>
 ---
 
 ### 🔧 My GitHub Stats & Languages
